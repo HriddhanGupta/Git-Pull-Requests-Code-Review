@@ -26,7 +26,7 @@ def divide(a, b):
 
 
 def main():
-    print("=== CALCULATOR ===")
+    print("=== SUPER CALCULATOR ===")
     print("8 + 2 =", add(8, 2))
     print("8 - 2 =", subtract(8, 2))
     print("8 * 2 =", multiply(8, 2))
