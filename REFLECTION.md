@@ -12,5 +12,3 @@ When enforced without bypasses, branch protection can block direct changes to ma
 ## 4. Why merge origin/main locally rather than force-pushing?
 After fetching, merging origin/main into the feature branch preserves both lines of development and lets the author resolve conflicts and test the combined code before updating the PR. Force-pushing rewrites remote history and can overwrite collaborators' work without reconciling the conflicting changes.
 
-## Practice mode and assistance
-This exercise uses the assignment's solo fallback, with Codex assistance authorized by the repository owner. PR #1 contains a batched COMMENT self-review, a separate docstring revision, and a resolved thread; no peer approval is claimed. See WORK_LOG.md for the actual commands, publication method, and any remaining setup.
